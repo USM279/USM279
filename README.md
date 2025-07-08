@@ -82,7 +82,7 @@
 ## 📬 Get in Touch
 
 - 📧 Email: [obada.smaisem@gmail.com](mailto:obada.smaisem@gmail.com)  
-- 🌐 Portfolio: [obada.me](https://obada.me)  
+- 🌐 Portfolio: [obada.me](https://obada.me)]
 - 💼 LinkedIn: [linkedin.com/in/obada-smaisem](https://www.linkedin.com/in/obada-smaisem/)  
 - 💻 GitHub: [github.com/USM279](https://github.com/USM279)
 
