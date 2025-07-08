@@ -9,7 +9,7 @@
   <a href="mailto:obada.smaisem@gmail.com"><img src="https://img.shields.io/badge/email-obada.smaisem@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/obada-smaisem"><img src="https://img.shields.io/badge/LinkedIn-Obada_Smaisem-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/USM279"><img src="https://img.shields.io/badge/GitHub-USM279-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://obada.me"><img src="https://img.shields.io/badge/Portfolio-obada.me-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://obadatech"><img src="https://img.shields.io/badge/Portfolio-obada.me-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
