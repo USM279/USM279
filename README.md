@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Obada Smaisem 👋</h1>
+<h1 align="center">Hi there, I'm Obada FADI 👋</h1>
 
 <p align="center">
   <strong>Software Engineer | CRM & Automation Specialist | AI Developer</strong><br/>
