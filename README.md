@@ -17,7 +17,7 @@
 ## 💼 About Me
 
 - 🎓 **Software Engineering student** at Sakarya University (2022–2026)
-- 🌍 Currently based in **UAE & KSA**, holding valid residency permits
+- 🌍 Currently based in **UAE & KSA**
 - ⚙️ Experienced in **CRM systems**, **automation tools**, and **low-code platforms**
 - 🧠 AI Developer with hands-on projects in **Computer Vision** and **Deep Learning**
 - 🤝 Team leader with background in **sales strategy** and **technical consultancy**
