@@ -9,7 +9,7 @@
   <a href="mailto:obada.smaisem@gmail.com"><img src="https://img.shields.io/badge/email-obada.smaisem@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/obada-smaisem"><img src="https://img.shields.io/badge/LinkedIn-Obada_Smaisem-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/USM279"><img src="https://img.shields.io/badge/GitHub-USM279-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://obadatech"><img src="https://img.shields.io/badge/Portfolio-obada.tech-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://obada.tech"><img src="https://img.shields.io/badge/Portfolio-obada.tech-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
@@ -73,8 +73,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USM279&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USM279&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USM279&show_icons=true&theme=react&hide_border=true" width="48%" alt="Obada's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=USM279&theme=react&hide_border=true" width="48%" alt="Obada's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USM279&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
