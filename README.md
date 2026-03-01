@@ -73,12 +73,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USM279&show_icons=true&theme=react&hide_border=true" width="48%" alt="Obada's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USM279&theme=react&hide_border=true" width="48%" alt="Obada's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USM279&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=USM279&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=USM279&theme=react&hide_border=true" width="48%" />
 </p>
 
 ---
